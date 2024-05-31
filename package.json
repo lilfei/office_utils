@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lilfei/office_utils#readme",
   "dependencies": {
-    "docx-pdf": "^0.0.1"
+    "docx-pdf": "^0.0.1",
+    "libreoffice-convert": "^1.5.1"
   }
 }
